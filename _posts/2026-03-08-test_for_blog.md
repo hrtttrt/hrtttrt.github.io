@@ -2,8 +2,8 @@
 layout:       post
 title:        "测试中英文的博客"
 subtitle:     "test for blog in different languages"
-date:         2026-02-09 12:00:00
-author:       "samlee"
+date:         2026-03-08 12:00:00
+author:       "hrtttrt"
 # header-img:   "顶部图片路径"
 header-mask:  0.3 # 页面标题阴影占比
 catalog:      true # 是否显示目录
