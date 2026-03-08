@@ -15,12 +15,12 @@ tags:
 
 <!-- Chinese Version -->
 <div class="zh post-container">
-    {% capture about_zh %}{% include posts/2026-02-09-test_for_blog/zh.md %}{% endcapture %}
+    {% capture about_zh %}{% include posts/2026-03-08-test_for_blog/zh.md %}{% endcapture %}
     {{ about_zh | markdownify }}
 </div>
 
 <!-- English Version -->
 <div class="en post-container">
-    {% capture about_en %}{% include posts/2026-02-09-test_for_blog/en.md %}{% endcapture %}
+    {% capture about_en %}{% include posts/2026-03-08-test_for_blog/en.md %}{% endcapture %}
     {{ about_en | markdownify }}
 </div>
